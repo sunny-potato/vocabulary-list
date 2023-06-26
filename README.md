@@ -1,11 +1,11 @@
-# Fullstack To-do list
+# Vocabulary list
 
 ## Getting Started
 
 Clone the project,
 
 ```bash
-git clone ---address---
+git clone https://github.com/sunny-potato/vocabulary-list.git
 ```
 
 Run React in terminal,
