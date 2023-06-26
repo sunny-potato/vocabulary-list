@@ -1,0 +1,117 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "id": 4,
+      "day": 4
+    },
+    {
+      "id": 5,
+      "day": 5
+    }
+  ],
+  "words": [
+    {
+      "id": 1,
+      "day": 1,
+      "eng": "book",
+      "nor": "en bok",
+      "isDone": true
+    },
+    {
+      "id": 2,
+      "day": 1,
+      "eng": "car",
+      "nor": "en bil",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "day": 2,
+      "eng": "today",
+      "nor": "i dag",
+      "isDone": true
+    },
+    {
+      "id": 4,
+      "day": 2,
+      "eng": "water",
+      "nor": "et vann",
+      "isDone": false
+    },
+    {
+      "id": 5,
+      "day": 3,
+      "eng": "school",
+      "nor": "en skole",
+      "isDone": false
+    },
+    {
+      "id": 6,
+      "day": 3,
+      "eng": "friend",
+      "nor": "en venn",
+      "isDone": false
+    },
+    {
+      "id": 7,
+      "day": 4,
+      "eng": "sun",
+      "nor": "en sol",
+      "isDone": false
+    },
+    {
+      "id": 8,
+      "day": 4,
+      "eng": "rain",
+      "nor": "et regn",
+      "isDone": false
+    },
+    {
+      "day": 2,
+      "eng": "computer",
+      "nor": "data",
+      "isDone": false,
+      "id": 9
+    },
+    {
+      "day": 1,
+      "eng": "cloud",
+      "nor": "sky",
+      "isDone": true,
+      "id": 10
+    },
+    {
+      "day": 3,
+      "eng": "light",
+      "nor": "lys",
+      "isDone": false,
+      "id": 11
+    },
+    {
+      "day": 6,
+      "eng": "exam",
+      "nor": "eksamen",
+      "isDone": false,
+      "id": 28
+    },
+    {
+      "day": 5,
+      "eng": "tomorrow",
+      "nor": "i morgen",
+      "isDone": true,
+      "id": 29
+    }
+  ]
+}
